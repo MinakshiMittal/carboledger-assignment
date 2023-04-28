@@ -1,0 +1,42 @@
+export const tableData = [
+  {
+    id: 1,
+    name: "Minakshi",
+    email: "minakshi@gmail.com",
+    age: 23,
+    phone: 9087654321,
+    country: "India",
+  },
+  {
+    id: 2,
+    name: "Pollock",
+    email: "pollock@gmail.com",
+    age: 35,
+    phone: 9087654321,
+    country: "USA",
+  },
+  {
+    id: 3,
+    name: "Robert",
+    email: "robert@gmail.com",
+    age: 28,
+    phone: 9087654321,
+    country: "Malaysia",
+  },
+  {
+    id: 4,
+    name: "Khushi",
+    email: "khushi@gmail.com",
+    age: 25,
+    phone: 9087654321,
+    country: "India",
+  },
+  {
+    id: 5,
+    name: "Gurmit",
+    email: "gurmit@gmail.com",
+    age: 30,
+    phone: 9087654321,
+    country: "India",
+  },
+];

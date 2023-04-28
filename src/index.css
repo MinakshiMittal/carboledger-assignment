@@ -1,0 +1,41 @@
+.container {
+  overflow: auto;
+  height: 30vh;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+table {
+  width: 100%;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: 1rem;
+}
+
+thead {
+  position: sticky;
+  top: 0;
+  background-color: #2cb8cb;
+}
+
+tr:nth-child(even) {
+  background-color: #a3e8f27d;
+}
+
+th,
+td {
+  text-align: center;
+  padding: 1rem;
+  border-bottom: 1px solid #dddddd;
+}
+
+th {
+  color: #ffffff;
+}
+
+tbody {
+  cursor: pointer;
+}
+
+tbody > tr:hover {
+  background-color: #ceb1e9b8;
+}
